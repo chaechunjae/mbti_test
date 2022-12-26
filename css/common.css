@@ -17,8 +17,8 @@ img {
 }
 
 .page-subtitle {
-    width: 240px;
-    height: 50px;
+    width: 300px;
+    height: 80px;
     border: 5px solid #FFA32D;
     border-radius: 30px;
     display: flex;
