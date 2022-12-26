@@ -4,9 +4,6 @@ body {
     background-position: top center;
     background-repeat: no-repeat;
 }
-img {
-    display: block;
-}
 
 .character {
     width: 100%;
